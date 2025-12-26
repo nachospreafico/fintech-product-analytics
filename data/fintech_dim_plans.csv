@@ -1,0 +1,4 @@
+plan_id;plan_name;monthly_fee_eur;fee_rate_card;fee_rate_transfer
+P01;Standard;0;0,01;0,004
+P02;Plus;6,99;0,008;0,003
+P03;Premium;14,99;0,006;0,002
